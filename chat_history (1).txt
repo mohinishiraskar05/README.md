@@ -1,0 +1,11 @@
+User: hello
+Chatbot: Hello! How can I help you?
+
+User: what is ai
+Chatbot: AI stands for Artificial Intelligence.
+
+User: who created python
+Chatbot: Python was created by Guido van Rossum.
+
+User: exit
+Chatbot: Goodbye!
