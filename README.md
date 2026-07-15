@@ -1,21 +1,36 @@
-# CodeAlpha Python Programming Internship
+# AI-Powered Chatbot
 
-This repository contains the projects completed during my CodeAlpha Python Programming Internship.
+## Description
+A simple AI-powered chatbot built using Python and NLTK. The chatbot responds to user questions using predefined responses stored in a JSON file and saves the conversation history.
 
-## Completed Tasks
-
-### Task 1: Hangman Game
-A text-based Hangman game where the player guesses a random word one letter at a time.
-
-### Task 2: Stock Portfolio Tracker
-A Python program that calculates the total investment value based on stock names and quantities entered by the user.
-
-### Task 4: Basic Chatbot
-A simple rule-based chatbot that responds to predefined user inputs such as greetings, help requests, and exit commands.
+## Features
+- Interactive chatbot
+- Responds to common questions
+- Stores responses in a JSON file
+- Saves chat history
+- Runs in Google Colab
 
 ## Technologies Used
 - Python
+- NLTK
+- JSON
 - Google Colab
 
+## Project Files
+- AI_Powered_Chatbot.ipynb
+- responses.json
+- chat_history.txt
+- requirements.txt
+
+## How to Run
+1. Install the required library:
+   ```
+   pip install nltk
+   ```
+2. Open the notebook in Google Colab.
+3. Run all cells.
+4. Start chatting with the bot.
+5. Type `exit` to end the chat.
+
 ## Author
-Mohini Shiraskarmmm
+Mohini Shiraskar
